@@ -1,1 +1,1 @@
-# NotepadShare
+# NotepadShare (Bluetooth)
